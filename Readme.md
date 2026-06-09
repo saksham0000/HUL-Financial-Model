@@ -21,9 +21,12 @@ Skills Demonstrated
 
 Files Included
 * HUL Financial Model.xlsx
-* Equity Research Report.pdf
+  
 Author
+
 Saksham Garg
+
 CFA Level II Cleared
+
 M.Com, Kurukshetra University
 
