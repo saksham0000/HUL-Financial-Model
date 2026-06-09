@@ -12,7 +12,7 @@ Scope of Analysis
 * Revenue and Expense Forecasting
 * Three-Statement Financial Modeling
 * Assumption-Based Projections
-* 
+ 
 Skills Demonstrated
 * Financial Statement Analysis
 * Financial Modeling
