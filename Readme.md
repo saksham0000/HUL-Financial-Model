@@ -1,32 +1,39 @@
-Hindustan Unilever Ltd. (HUL) Financial Model
+## Hindustan Unilever Ltd. – Equity Research & Valuation
 
-Project Overview
+## Overview
 
-This project contains a detailed financial model of Hindustan Unilever Ltd. (HUL). The model analyzes the company's historical financial performance and projects future financial statements based on key assumptions.
+This project presents a comprehensive equity research and valuation analysis of Hindustan Unilever Limited (HUL), India's leading FMCG company. The analysis includes financial statement forecasting, DCF valuation, peer comparison, and investment recommendation.
 
-Scope of Analysis
-* Historical Income Statement Analysis
-* Historical Balance Sheet Analysis
-* Historical Cash Flow Statement Analysis
-* Financial Ratio Analysis
-* Revenue and Expense Forecasting
-* Three-Statement Financial Modeling
-* Assumption-Based Projections
- 
-Skills Demonstrated
-* Financial Statement Analysis
+## Key Components
+
+* Integrated 3-Statement Financial Model
+* Revenue and Margin Forecasting
+* Working Capital Analysis
+* Discounted Cash Flow (DCF) Valuation
+* Relative Valuation Analysis
+* Peer Benchmarking
+* One-Page Equity Research Report
+
+## Investment Thesis
+
+HUL benefits from strong brand equity, extensive distribution reach, consistent cash flow generation, and market leadership across multiple FMCG categories. Long-term growth is expected to be driven by premiumisation, rural demand recovery, and product innovation.
+
+## Files
+
+* Financial Model.xlsx
+* One Page Equity Research Report.pdf
+
+## Skills Demonstrated
+
 * Financial Modeling
-* Forecasting
-* Microsoft Excel
+* Equity Research
+* DCF Valuation
+* Relative Valuation
+* Financial Statement Analysis
+* Industry Research
+* Investment Analysis
 
-Files Included
-* HUL Financial Model.xlsx
-  
-Author
+Prepared by: Saksham Garg
+CFA Level II Cleared | UGC-NET Qualified
 
-Saksham Garg
-
-CFA Level II Cleared
-
-M.Com, Kurukshetra University
 
